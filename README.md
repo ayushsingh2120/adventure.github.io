@@ -32,11 +32,11 @@ The game involves receiving cryptic letters, solving ciphers, and making critica
 
 1. **Clone the Repository** :
    ```bash
-   git clone https://github.com/Salil16440/zodiac.github.io
+   git clone https://github.com/ayushsingh2120/adventure.github.io
    
 2. **Navigate to Directory**
    ```bash
-     cd zodiac.github.io
+     cd adventure.github.io
 3. **Run the Game**
    ```bash
      python zodiac.py
@@ -88,4 +88,4 @@ Inspired by the movie `Zodiac` and text-based adventure games.
 
 ## Contact
 
-For any inquiries, please reach out to salil.16440@stu.upes.ac.in.
+For any inquiries, please reach out to ayush.10104@stu.upes.ac.in.
